@@ -1,2 +1,2 @@
 # About
-In order to review some data structures, I am implementing them in Java
+I am writing some classes to review data structures 
